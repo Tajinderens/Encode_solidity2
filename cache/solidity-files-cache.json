@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/tonycrypto/Desktop/Encode_Solidity/Lesoon6/contracts/Lock.sol": {
-      "lastModificationDate": 1691955701200,
-      "contentHash": "ae66265769cc28ebdaa34881df95bc5e",
-      "sourceName": "contracts/Lock.sol",
+    "/Users/tonycrypto/Desktop/Encode_Solidity/Lesoon6/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1691961939091,
+      "contentHash": "e229913a3f170572be263b836d7ea476",
+      "sourceName": "contracts/HelloWorld.sol",
       "solcConfig": {
         "version": "0.8.19",
         "settings": {
@@ -30,10 +30,10 @@
       },
       "imports": [],
       "versionPragmas": [
-        "^0.8.9"
+        ">=0.7.0 <0.9.0"
       ],
       "artifacts": [
-        "Lock"
+        "HelloWorld"
       ]
     }
   }
